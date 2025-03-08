@@ -1,2 +1,2 @@
 # project_pertama
-Project MBKM
+Project MBKM, untuk belajar git
